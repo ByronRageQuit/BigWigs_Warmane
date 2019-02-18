@@ -97,9 +97,9 @@ Zuljin		- □□□□□□□□□□ 00% -Missing first timer on Paralize
 
 # Tier 6.5
 
-Kalecgos	- □□□□□□□□□□ 00%
-Brutallus	- □□□□□□□□□□ 00%
-Felmyst		- □□□□□□□□□□ 00%
-Twins		- □□□□□□□□□□ 00%
-Muru		- □□□□□□□□□□ 00%
-Kiljaeden	- □□□□□□□□□□ 00%
+Kalecgos	- ■■■■■■■■■□ 90%
+Brutallus	- ■■■■■■■■■■ 100% 
+Felmyst		- ■■■■■■■■■□ 90% - Sometimes misses the first gas nova after landing
+Twins		- ■■■■■■■■■■ 100%
+Muru		- ■■■■■■■■■□ 90% - Could use "better" p2 times
+Kiljaeden	- ■■■■■■■■■□ 90% - Missing the "useless" 15minute enrage timer

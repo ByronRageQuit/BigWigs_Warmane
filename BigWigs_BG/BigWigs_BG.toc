@@ -1,0 +1,14 @@
+## Interface: 20400
+
+## Title: Big Wigs [|cffeda55fBattlegrounds|r]
+## Notes: Big Wigs Battleground Modules
+## Author: Hotaru & Fleischi
+## Version: 1.0
+## LoadOnDemand: 1
+
+## X-BigWigs-LoadInZone: Arathi Basin, Alterac Valley
+
+## Dependencies: BigWigs
+
+ArathiBasin.lua
+AlteracValley.lua

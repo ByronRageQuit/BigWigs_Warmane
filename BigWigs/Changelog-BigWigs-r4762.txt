@@ -1,0 +1,213 @@
+------------------------------------------------------------------------
+r4762 | ananhaid | 2008-10-12 20:51:32 +0000 (Sun, 12 Oct 2008) | 2 lines
+Changed paths:
+   M /trunk/Sunwell/KilJaeden.lua
+
+BigWigs: 
+- zhTW update.
+------------------------------------------------------------------------
+r4761 | stanzilla | 2008-10-12 08:35:55 +0000 (Sun, 12 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/BigWigs.toc
+   M /trunk/embeds.xml
+
+BigWigs: LDB is hard included. Don't strip it.
+------------------------------------------------------------------------
+r4760 | stanzilla | 2008-10-10 12:11:31 +0000 (Fri, 10 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+   M /trunk/BigWigs.toc
+   M /trunk/modules.xml
+
+BigWigs: We unpack with .pkgmeta now.
+------------------------------------------------------------------------
+r4759 | stanzilla | 2008-10-10 00:45:23 +0000 (Fri, 10 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/embeds.xml
+
+BigWigs: really remove AceDebug
+------------------------------------------------------------------------
+r4758 | rabbit | 2008-10-09 20:22:53 +0000 (Thu, 09 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/Plugins/RaidWarn.lua
+
+Yet another debug line removed.
+------------------------------------------------------------------------
+r4757 | 7destiny | 2008-10-09 12:28:19 +0000 (Thu, 09 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/BigWigs.toc
+
+BigWigs: fixed LDB issue
+------------------------------------------------------------------------
+r4756 | rabbit | 2008-10-08 20:47:00 +0000 (Wed, 08 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/Plugins/BossBlock.lua
+
+Comment out some debug statements.
+------------------------------------------------------------------------
+r4755 | rabbit | 2008-10-07 08:16:02 +0000 (Tue, 07 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+   M /trunk/BigWigs.toc
+   M /trunk/Core.lua
+   A /trunk/Libs/LibDataBroker-1.1
+   A /trunk/Libs/LibDataBroker-1.1/LibDataBroker-1.1.lua
+   M /trunk/Options.lua
+   M /trunk/Prototype.lua
+   M /trunk/embeds.xml
+
+Change from FuBar to LDB and remove AceDebug.
+------------------------------------------------------------------------
+r4754 | kjheng | 2008-10-06 19:46:48 +0000 (Mon, 06 Oct 2008) | 1 line
+Changed paths:
+   A /trunk/Sunwell/KilJaeden.lua
+
+BigWigs: update zhTW
+------------------------------------------------------------------------
+r4753 | kjheng | 2008-10-06 19:46:29 +0000 (Mon, 06 Oct 2008) | 1 line
+Changed paths:
+   D /trunk/Sunwell/KilJaeden.lua
+
+
+------------------------------------------------------------------------
+r4752 | nevcairiel | 2008-10-02 17:32:08 +0000 (Thu, 02 Oct 2008) | 1 line
+Changed paths:
+   D /trunk/filelist.wau
+
+Remove WAU support file
+------------------------------------------------------------------------
+r4751 | rabbit | 2008-10-01 15:07:45 +0000 (Wed, 01 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+   M /trunk/Libs
+
+Removed externals and fixed .pkgmeta.
+------------------------------------------------------------------------
+r4750 | root | 2008-09-30 15:42:34 +0000 (Tue, 30 Sep 2008) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+
+Hopefully fix .pkgmeta
+------------------------------------------------------------------------
+r4749 | root | 2008-09-30 14:44:04 +0000 (Tue, 30 Sep 2008) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+
+Hopefully fix .pkgmeta
+------------------------------------------------------------------------
+r4748 | root | 2008-09-29 21:49:38 +0000 (Mon, 29 Sep 2008) | 1 line
+Changed paths:
+   A /trunk/.pkgmeta
+   M /trunk/Libs
+
+Facilitate WowAce-on-CurseForge transition
+------------------------------------------------------------------------
+r4746 | root | 2008-09-29 20:57:37 +0000 (Mon, 29 Sep 2008) | 1 line
+Changed paths:
+   D /tmp/trunk/BigWigs
+   A /trunk (from /tmp/trunk/BigWigs:4745)
+
+Importing old repo data under /trunk
+------------------------------------------------------------------------
+r4745 | kjheng | 2008-09-28 19:15:05 +0000 (Sun, 28 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/BigWigs/Core.lua
+   M /tmp/trunk/BigWigs/Sunwell/KilJaeden.lua
+
+BigWigs: update zhTW
+------------------------------------------------------------------------
+r4744 | kjheng | 2008-09-26 10:35:29 +0000 (Fri, 26 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/BigWigs/Core.lua
+   M /tmp/trunk/BigWigs/Extras/Proximity.lua
+   M /tmp/trunk/BigWigs/Plugins/RaidIcon.lua
+   M /tmp/trunk/BigWigs/Prototype.lua
+
+BigWigs: update zhTW
+------------------------------------------------------------------------
+r4743 | kjheng | 2008-09-25 21:11:11 +0000 (Thu, 25 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/BigWigs/Sunwell/KilJaeden.lua
+
+BigWigs: add zhTW
+------------------------------------------------------------------------
+r4742 | kjheng | 2008-09-25 19:00:18 +0000 (Thu, 25 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/BigWigs/Sunwell/Muru.lua
+
+BigWigs: update zhTW
+------------------------------------------------------------------------
+r4741 | 7destiny | 2008-09-23 13:24:19 +0000 (Tue, 23 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/BigWigs/Sunwell/KilJaeden.lua
+
+BigWigs: koKR Update
+------------------------------------------------------------------------
+r4740 | 7destiny | 2008-09-22 16:57:47 +0000 (Mon, 22 Sep 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/BigWigs/Sunwell/Brutallus.lua
+   M /tmp/trunk/BigWigs/Sunwell/Kalecgos.lua
+   M /tmp/trunk/BigWigs/Sunwell/KilJaeden.lua
+   M /tmp/trunk/BigWigs/Sunwell/Muru.lua
+   M /tmp/trunk/BigWigs/Sunwell/Twins.lua
+
+BigWigs: Sunwell:
+- koKR Update
+------------------------------------------------------------------------
+r4739 | rabbit | 2008-09-22 08:21:15 +0000 (Mon, 22 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/BigWigs/Plugins/BossBlock.lua
+
+BigWigs: BossBlock: WotLK fix.
+------------------------------------------------------------------------
+r4738 | pettigrow | 2008-09-18 21:13:33 +0000 (Thu, 18 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/BigWigs/Sunwell/KilJaeden.lua
+
+BigWigs: frFR Update
+------------------------------------------------------------------------
+r4737 | pettigrow | 2008-09-17 20:15:56 +0000 (Wed, 17 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/BigWigs/Sunwell/Brutallus.lua
+   M /tmp/trunk/BigWigs/Sunwell/KilJaeden.lua
+   M /tmp/trunk/BigWigs/Sunwell/Muru.lua
+   M /tmp/trunk/BigWigs/Sunwell/Twins.lua
+
+BigWigs: frFR Update
+------------------------------------------------------------------------
+r4736 | funkydude | 2008-09-17 16:22:29 +0000 (Wed, 17 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/BigWigs/Prototype.lua
+
+BigWigs: Prototype: Add sFlags and dFlags to the end of the passed variables for Nafe (multi mobs).
+------------------------------------------------------------------------
+r4735 | rabbit | 2008-09-16 09:31:52 +0000 (Tue, 16 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/BigWigs/Sunwell/Brutallus.lua
+   M /tmp/trunk/BigWigs/Sunwell/Felmyst.lua
+   M /tmp/trunk/BigWigs/Sunwell/Kalecgos.lua
+   M /tmp/trunk/BigWigs/Sunwell/KilJaeden.lua
+   M /tmp/trunk/BigWigs/Sunwell/Muru.lua
+   M /tmp/trunk/BigWigs/Sunwell/Twins.lua
+
+BigWigs: Sunwell: Wording tweaks, remove the word Next from warnings and bars and shorten Seconds to sec.
+------------------------------------------------------------------------
+r4734 | gamefaq | 2008-09-14 04:05:40 +0000 (Sun, 14 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/BigWigs/Sunwell/KilJaeden.lua
+   M /tmp/trunk/BigWigs/Sunwell/Muru.lua
+
+BigWigs: deDE Update
+------------------------------------------------------------------------
+r4730 | StingerSoft | 2008-09-12 03:26:18 +0000 (Fri, 12 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/BigWigs/SC/Vashj.lua
+
+BigWigs: update ruRU
+------------------------------------------------------------------------
+r4729 | pettigrow | 2008-09-08 09:08:36 +0000 (Mon, 08 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/BigWigs/Sunwell/Felmyst.lua
+
+BigWigs: frFR Update
+------------------------------------------------------------------------
